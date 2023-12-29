@@ -11,7 +11,7 @@ Supply planning is the process of managing the inventory produced by manufacturi
 Your target is to balance supply and demand in a manner to ensure the best service level at the lowest cost.
 
 ### Article
-In this [Article](https://www.samirsaci.com/supply-planning-using-linear-programming-with-python/), we will present a simple methodology to use Integer Linear Programming to answer a complex Supply Planning Problem considering:
+In this [Article](https://towardsdatascience.com/supply-planning-using-linear-programming-with-python-bff2401bf270), we will present a simple methodology to use Integer Linear Programming to answer a complex Supply Planning Problem considering:
 - Inbound Transportation Costs from the Plants to the Distribution Centers (DC) ($/Carton)
 - Outbound Transportation Costs from the DCs to the final customer ($/Carton)
 - Customer Demand (Carton)
