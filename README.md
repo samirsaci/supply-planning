@@ -40,7 +40,25 @@ Which Plant i and Distribution n should I choose to produce and deliver 100 unit
 ## Code
 In this repository, you will find all the code used to explain the concepts presented in the article.
 
+### Files
+- `Supply Planning Problem.ipynb` - Jupyter notebook with step-by-step analysis
+- `supply_planning.py` - Standalone Python script
+- `data/` - Folder containing input CSV files (df_demand.csv, df_inprice.csv, df_outprice.csv)
+
+### Getting Started
+```bash
+pip install -r requirements.txt
+python supply_planning.py
+```
+
+### Dependencies
+- pandas
+- pulp
+- matplotlib
+- seaborn
+
+
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://wwww.logi-green.com/).\
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).\
+For more case studies, check my [Personal Website](https://samirsaci.com).
